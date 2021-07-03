@@ -1,0 +1,9 @@
+On the basis of age, gender and position of the COVID positive patients in Surat, will predict whether the patient was cured of COVID-19 or not based on the data provided by the Surat Municipal Corporation.
+
+ABSTRACT:
+
+On the basis of age, gender and positon of the COVID positive patients in SURAT, will predict whether the patient was cured of COVID-19 or not based on the data provided by the Surat Muncipal Corporation.
+
+
+Abstract
+The outbreak of Corona Virus Disease 2019 (COVID-19) in Wuhan has significantly impacted the economy and society globally. Countries are in a strict state of prevention and control of this pandemic. In this study, the development trend analysis of the cumulative confirmed cases, cumulative deaths, and cumulative cured cases was conducted based on data from Wuhan, Hubei Province, China from January 23, 2020 to April 6, 2020 using an Elman neural network, long short-term memory (LSTM), and support vector machine (SVM). A SVM with fuzzy granulation was used to predict the growth range of confirmed new cases, new deaths, and new cured cases. The experimental results showed that the Elman neural network and SVM used in this study can predict the development trend of cumulative confirmed cases, deaths, and cured cases, whereas LSTM is more suitable for the prediction of the cumulative confirmed cases. The SVM with fuzzy granulation can successfully predict the growth range of confirmed new cases and new cured cases, although the average predicted values are slightly large. Currently, the United States is the epicenter of the COVID-19 pandemic. We also used data modeling from the United States to further verify the validity of the proposed models
